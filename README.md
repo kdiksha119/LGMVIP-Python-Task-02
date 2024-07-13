@@ -8,7 +8,7 @@ task is to create a snake game which we previously played on old nokia phone. Th
 # Details
 + **Project Title:** Create a snake game using Python
 + **Project Description:** All the teenagers of my generation must have addiction of playing snake game on the old nokia phone. And this task is all about bringing that memory back and the module `turtle` was built specially for beginners to try and submit as part of the project.
-+ **Project Submission:** All this work will be found on the `main1` folder in the current directory.
++ **Project Submission:** All the work which should be evaluated will be found on the `task02.py` folder in the current directory.
 + **Library Used:**
    + `turtle`- to create a GUI for displaying and controlling the game elements.
    + `random`- for creating random numbers.
